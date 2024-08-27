@@ -48,7 +48,7 @@ def contruct_url(kw,st_yr,ed_yr,n):
     kw=kw.replace("'",'%22')
     st_yr_url = f'&as_ylo={st_yr}'
     ed_yr_url = f'&as_yhi={ed_yr}'
-    url = f'https://scholar.google.com/scholar?start={n}&q={kw}&hl=en&as_sdt=0,5{st_yr_url}{ed_yr_url}'
+    url = f'https://scholar.google.com/scholar?start={n}&q={kw}&hl=en&as_sdt=0%2C44&as_vis=1{st_yr_url}{ed_yr_url}'
     return url
 
 def get_author(content):
