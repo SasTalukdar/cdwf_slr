@@ -14,11 +14,30 @@ import warnings
 import pandas as pd
 # from fp.fp import FreeProxy
 
+def read_variables(file_path):
+    variables = {}
+    with open(file_path, 'r') as file:
+        for line in file:
+            key, value = line.strip().split('=', 1)
+            value=value.strip(' ')
+            if value.isdigit():
+                value = int(value)
+            else:
+                value=value.strip("'")
+            variables[key] = value
+    return variables
 
-KEY_WORDS = 'Monsoon AND weather OR climate OR river OR cloud OR rain OR rainfall OR precipitation OR temperature OR wind OR premonsoon "Northeast India"' 
-START_YEAR = 2001
-END_YEAR = 2020
-MAX_NUM=1000
+# Example usage
+file_path = 'input.txt'  # Replace with your actual file path
+variables = read_variables(file_path)
+
+# Assign variables
+TAG=variables.get('TAG')
+KEY_WORDS = variables.get('KEY_WORDS')
+START_YEAR = variables.get('START_YEAR')
+END_YEAR = variables.get('END_YEAR')
+START_PAGE_NUM = variables.get('START_PAGE_NUM')
+MAX_NUM = variables.get('MAX_NUM')
 
 ROBOT_KW=['unusual traffic from your computer network', 'not a robot']
 
@@ -143,14 +162,14 @@ def save_website_content(url):
 
 # Example usage
 empt=0
-for n in range(0,MAX_NUM,10):
+for n in range(int(START_PAGE_NUM/10),MAX_NUM,10):
     url = contruct_url(KEY_WORDS,START_YEAR,END_YEAR,n)
     data=save_website_content(url)
     if n==0:
         df=data
     else:
         df=pd.concat((df,data), ignore_index=True)
-    df.to_csv(f'''{KEY_WORDS.replace(' ','_').replace('"','')}_{START_YEAR}_{END_YEAR}.csv''',index=False)
+    df.to_csv(f'{TAG}_{START_YEAR}_{END_YEAR}_{START_PAGE_NUM}_{MAX_NUM}.csv',index=False)
     if len(data)==0:
         empt+=1
     print(f'iteration: {n}')

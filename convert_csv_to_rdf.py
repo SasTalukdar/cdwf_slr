@@ -38,7 +38,33 @@ vol=''
 journal=''
 doi=''
 
-df=pd.read_csv('Monsoon_AND_weather_OR_climate_OR_river_OR_cloud_OR_rain_OR_rainfall_OR_precipitation_OR_temperature_OR_wind_OR_premonsoon_Northeast_India_2001_2021.csv')
+
+def read_variables(file_path):
+    variables = {}
+    with open(file_path, 'r') as file:
+        for line in file:
+            key, value = line.strip().split('=', 1)
+            value=value.strip(' ')
+            if value.isdigit():
+                value = int(value)
+            else:
+                value=value.strip("'")
+            variables[key] = value
+    return variables
+
+# Example usage
+file_path = 'input.txt'  # Replace with your actual file path
+variables = read_variables(file_path)
+
+# Assign variables
+TAG=variables.get('TAG')
+KEY_WORDS = variables.get('KEY_WORDS')
+START_YEAR = variables.get('START_YEAR')
+END_YEAR = variables.get('END_YEAR')
+START_PAGE_NUM = variables.get('START_PAGE_NUM')
+MAX_NUM = variables.get('MAX_NUM')
+
+df=pd.read_csv(f'{TAG}_{START_YEAR}_{END_YEAR}_{START_PAGE_NUM}_{MAX_NUM}.csv')
 
 rdf='''
 <rdf:RDF
@@ -80,5 +106,5 @@ for i, row in df.iterrows():
     else:
         print(row)
 rdf=rdf+'\n</rdf:RDF>'
-with open("sample1.rdf", "w") as file:
+with open(f'{TAG}_{START_YEAR}_{END_YEAR}_{START_PAGE_NUM}_{MAX_NUM}.rdf', "w") as file:
     file.write(rdf)
