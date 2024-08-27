@@ -19,6 +19,7 @@ def read_variables(file_path):
     with open(file_path, 'r') as file:
         for line in file:
             key, value = line.strip().split('=', 1)
+            key=key.strip(' ')
             value=value.strip(' ')
             if value.isdigit():
                 value = int(value)
