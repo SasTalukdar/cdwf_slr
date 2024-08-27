@@ -1,0 +1,2680 @@
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+
+        <bib:Article rdf:about="https://pubs.geoscienceworld.org/gsa/geology/article-abstract/31/1/47/192515">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Gupta</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Thomas</foaf:surname>
+                           <foaf:givenName> E</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Initiation of Northern Hemisphere glaciation and strengthening of the northeast Indian monsoon: Ocean Drilling Program Site 758, eastern equatorial Indian Ocean</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://pubs.geoscienceworld.org/gsa/geology/article-abstract/31/1/47/192515</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.researchgate.net/profile/Renguang-Wu/publication/229698843_A_mid-latitude_Asian_circulation_pattern_in_boreal_summer_and_its_connection_with_the_Indian_and_East_Asian_summer_monsoons/links/5d783bc0299bf1cb809812c6/A-mid-latitude-Asian-circulation-pattern-in-boreal-summer-and-its-connection-with-the-Indian-and-East-Asian-summer-monsoons.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Wu</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>A mid‐latitude Asian circulation anomaly pattern in boreal summer and its connection with the Indian and East Asian summer monsoons</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.researchgate.net/profile/Renguang-Wu/publication/229698843_A_mid-latitude_Asian_circulation_pattern_in_boreal_summer_and_its_connection_with_the_Indian_and_East_Asian_summer_monsoons/links/5d783bc0299bf1cb809812c6/A-mid-latitude-Asian-circulation-pattern-in-boreal-summer-and-its-connection-with-the-Indian-and-East-Asian-summer-monsoons.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.jstage.jst.go.jp/article/jmsj/81/2/81_2_251/_article/-char/ja/">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Duan</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Yao</foaf:surname>
+                           <foaf:givenName> T</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Monsoon variability in the Himalayas under the condition of global warming</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.jstage.jst.go.jp/article/jmsj/81/2/81_2_251/_article/-char/ja/</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2004GL020015">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Duan</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Yao</foaf:surname>
+                           <foaf:givenName> T</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Thompson</foaf:surname>
+                           <foaf:givenName> LG</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Low‐frequency of southern Asian monsoon variability using a 295‐year record from the Dasuopu ice core in the central Himalayas</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2004GL020015</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://link.springer.com/article/10.1023/A:1021199714487">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Dhar</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Nandargi</foaf:surname>
+                           <foaf:givenName> S</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Hydrometeorological aspects of floods in India</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://link.springer.com/article/10.1023/A:1021199714487</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://link.springer.com/article/10.1007/BF02912006">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Fang</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Chen</foaf:surname>
+                           <foaf:givenName> X</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Ding</foaf:surname>
+                           <foaf:givenName> X</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Hu</foaf:surname>
+                           <foaf:givenName> C</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Yin</foaf:surname>
+                           <foaf:givenName> Y</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Nie</foaf:surname>
+                           <foaf:givenName> H</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Paleoceanographical records under impact of the Indian monsoon from the Bengal Deep Sea Fan and Ninetyeast Ridge during the last 260 ka</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://link.springer.com/article/10.1007/BF02912006</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.jstor.org/stable/24106568">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Jayaraman</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Aerosol radiation cloud interactions over the tropical Indian Ocean prior to the onset of the summer monsoon</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.jstor.org/stable/24106568</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://journals.ametsoc.org/view/journals/clim/15/12/1520-0442_2002_015_1485_mbasss_2.0.co_2.xml?tab_body=abstract-display">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Vecchi</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Harrison</foaf:surname>
+                           <foaf:givenName> DE</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Monsoon breaks and subseasonal sea surface temperature variability in the Bay of Bengal</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://journals.ametsoc.org/view/journals/clim/15/12/1520-0442_2002_015_1485_mbasss_2.0.co_2.xml?tab_body=abstract-display</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000JC000403">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Han</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Jr…</foaf:surname>
+                           <foaf:givenName> JP McCreary</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Influence of precipitation minus evaporation and Bay of Bengal rivers on dynamics, thermodynamics, and mixed layer physics in the upper Indian Ocean</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000JC000403</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.researchgate.net/profile/Aniruddha-Khadkikar/publication/288370219_Coastal_aeolianite_deposits_An_archive_of_Indian_monsoon_rainfall_and_winds_over_the_late_Quaternary/links/56e1ce3a08ae03f0278ed364/Coastal-aeolianite-deposits-An-archive-of-Indian-monsoon-rainfall-and-winds-over-the-late-Quaternary">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Khadkikar</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Coastal aeolianite deposits: an archive of Indian monsoon rainfall and winds over the late Quaternary</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.researchgate.net/profile/Aniruddha-Khadkikar/publication/288370219_Coastal_aeolianite_deposits_An_archive_of_Indian_monsoon_rainfall_and_winds_over_the_late_Quaternary/links/56e1ce3a08ae03f0278ed364/Coastal-aeolianite-deposits-An-archive-of-Indian-monsoon-rainfall-and-winds-over-the-late-Quaternary</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://link.springer.com/article/10.1007/s00382-004-0390-4">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Collins</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Reason</foaf:surname>
+                           <foaf:givenName> CJC</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Tangang</foaf:surname>
+                           <foaf:givenName> F</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Predictability of Indian Ocean sea surface temperature using canonical correlation analysis</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://link.springer.com/article/10.1007/s00382-004-0390-4</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://link.springer.com/article/10.1360/02wd0253">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Duan</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Yao</foaf:surname>
+                           <foaf:givenName> T</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Precipitation variability in central Himalayas and its relation to Northern Hemisphere temperature</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://link.springer.com/article/10.1360/02wd0253</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://link.springer.com/article/10.1007/s00024-003-2476-z">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Tiwari</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Lakshmi</foaf:surname>
+                           <foaf:givenName> S Sri</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Rao</foaf:surname>
+                           <foaf:givenName> KNN</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Characterization of earthquake dynamics in northeastern India regions: a modern nonlinear forecasting approach</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://link.springer.com/article/10.1007/s00024-003-2476-z</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="http://103.215.208.102/index.php/MAUSAM/article/view/996">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Suresh</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Bhatnagar</foaf:surname>
+                           <foaf:givenName> AK</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Pre-convective environment of pre-monsoon thunderstorms around Chennai–A thermodynamical study</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>http://103.215.208.102/index.php/MAUSAM/article/view/996</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2005GL024519">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Ahmad</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Babu…</foaf:surname>
+                           <foaf:givenName> G Anil</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Sr, Nd isotopic evidence of terrigenous flux variations in the Bay of Bengal: Implications of monsoons during the last∼ 34,000 years</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2005GL024519</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000GL012251">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Sengupta</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Senan…</foaf:surname>
+                           <foaf:givenName> R</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Origin of intraseasonal variability of circulation in the tropical central Indian Ocean</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000GL012251</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S002532270500071X">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Rao</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Ramaswamy</foaf:surname>
+                           <foaf:givenName> V</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Thwin</foaf:surname>
+                           <foaf:givenName> S</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Sediment texture, distribution and transport on the Ayeyarwady continental shelf, Andaman Sea</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.sciencedirect.com/science/article/pii/S002532270500071X</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1461-0248.2005.00767.x">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Keeley</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Rundel</foaf:surname>
+                           <foaf:givenName> PW</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Fire and the Miocene expansion of C4 grasslands</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1461-0248.2005.00767.x</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://link.springer.com/article/10.1007/BF02702022">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Saraswat</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Nigam</foaf:surname>
+                           <foaf:givenName> R</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Barreto</foaf:surname>
+                           <foaf:givenName> L</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Palaeoceanographic implications of abundance and mean proloculus diameter of benthic foraminiferal speciesEpistominella exigua in sub-surface sediments from …</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://link.springer.com/article/10.1007/BF02702022</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://library.dbca.wa.gov.au/static/FullTextFiles/065400.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>D'Adamo</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Onton</foaf:surname>
+                           <foaf:givenName> K</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Branch</foaf:surname>
+                           <foaf:givenName> MC</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>… OF THE BROAD-SCALE CIRCULATION PATTERNS OF THE INDONESIAN-AUSTRALIAN BASIN AND SHELF REGION FROM NORTHWEST AUSTRALIA TO …</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://library.dbca.wa.gov.au/static/FullTextFiles/065400.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0377839803001208">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Singh</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Gupta</foaf:surname>
+                           <foaf:givenName> AK</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Late Oligocene–Miocene paleoceanographic evolution of the southeastern Indian Ocean: evidence from deep-sea benthic foraminifera (ODP Site 757)</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.sciencedirect.com/science/article/pii/S0377839803001208</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.researchgate.net/profile/L-Chamyal-2/publication/228668011_Quaternary_deposits_in_Ladakh_and_Karakoram_Himalaya_A_treasure_trove_of_the_palaeoclimate_records/links/549ab3820cf2d6581ab2c437/Quaternary-deposits-in-Ladakh-and-Karakoram-Himalaya-A-treasure-trove-of-the-palaeoclimate-records.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Pant</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Phadtare</foaf:surname>
+                           <foaf:givenName> NR</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Chamyal</foaf:surname>
+                           <foaf:givenName> LS</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Juyal</foaf:surname>
+                           <foaf:givenName> N</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Quaternary deposits in Ladakh and Karakoram Himalaya: a treasure trove of the palaeoclimate records</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.researchgate.net/profile/L-Chamyal-2/publication/228668011_Quaternary_deposits_in_Ladakh_and_Karakoram_Himalaya_A_treasure_trove_of_the_palaeoclimate_records/links/549ab3820cf2d6581ab2c437/Quaternary-deposits-in-Ladakh-and-Karakoram-Himalaya-A-treasure-trove-of-the-palaeoclimate-records.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://link.springer.com/chapter/10.1007/3-540-26536-8_9">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Srivastava</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Earth System Modeling Through Chaos</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://link.springer.com/chapter/10.1007/3-540-26536-8_9</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0277379101001391">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Voelker</foaf:surname>
+                           <foaf:givenName>L</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Global distribution of centennial-scale records for Marine Isotope Stage (MIS) 3: a database</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.sciencedirect.com/science/article/pii/S0277379101001391</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0377839801000093">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Shyu</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Chen</foaf:surname>
+                           <foaf:givenName> MP</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Shieh</foaf:surname>
+                           <foaf:givenName> YT</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Huang</foaf:surname>
+                           <foaf:givenName> CK</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>A Pleistocene paleoceanographic record from the north slope of the Spratly Islands, southern South China Sea</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.sciencedirect.com/science/article/pii/S0377839801000093</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://scholar.archive.org/work/pey2hgigi5fbrm6mlspcy5ahhu/access/wayback/https://www.jstage.jst.go.jp/article/swsj1965/55/3/55_175/_pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Hattori</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Nakaguchi</foaf:surname>
+                           <foaf:givenName> Y</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Kimura…</foaf:surname>
+                           <foaf:givenName> M</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Distributions of dissolved selenium species in the Eastern Indian Ocean</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://scholar.archive.org/work/pey2hgigi5fbrm6mlspcy5ahhu/access/wayback/https://www.jstage.jst.go.jp/article/swsj1965/55/3/55_175/_pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://books.google.com/books?hl=en&lr=&id=wO7QADkQ5CYC&oi=fnd&pg=PA131&dq=Monsoon+weather+OR+climate+OR+river+OR+cloud+OR+rain+OR+rainfall+OR+precipitation+OR+temperature+OR+wind+OR+premonsoon+%22Northeast+Indian%E2%80%9D&ots=5XB3xpY7wZ&sig=dqGC2CUBauHpkJOV6HvLA1wdCk4">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Goswami</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Das</foaf:surname>
+                           <foaf:givenName> SK</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Present Status of Fisheries in Assam</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://books.google.com/books?hl=en&lr=&id=wO7QADkQ5CYC&oi=fnd&pg=PA131&dq=Monsoon+weather+OR+climate+OR+river+OR+cloud+OR+rain+OR+rainfall+OR+precipitation+OR+temperature+OR+wind+OR+premonsoon+%22Northeast+Indian%E2%80%9D&ots=5XB3xpY7wZ&sig=dqGC2CUBauHpkJOV6HvLA1wdCk4</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://search.proquest.com/openview/c1cf6d851bd11956ce170227d00435b5/1?pq-origsite=gscholar&cbl=33459">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Kaiswe</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Kharmawphlang</foaf:surname>
+                           <foaf:givenName> DL</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>TALKING FOREST: Reforestation of a Sacred Grove as Social Sculpture</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://search.proquest.com/openview/c1cf6d851bd11956ce170227d00435b5/1?pq-origsite=gscholar&cbl=33459</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="http://irgu.unigoa.ac.in/drs/bitstream/handle/unigoa/3239/mazumder_a_2005.pdf?sequence=1">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Mazumder</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Paleoclimatic reconstruction through the study of foraminifera in marine sediments off central west coast of India</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>http://irgu.unigoa.ac.in/drs/bitstream/handle/unigoa/3239/mazumder_a_2005.pdf?sequence=1</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.academia.edu/download/51084361/oguz_sea14_ch04.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Oguz</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Su</foaf:surname>
+                           <foaf:givenName> J</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Semi-enclosed seas, islands and Australia panregional overview (S)</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.academia.edu/download/51084361/oguz_sea14_ch04.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/1367">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Suresh</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Bhatnagar</foaf:surname>
+                           <foaf:givenName> AK</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Unusual hail storms during May 2002 in Chennai and its suburbs–A study using data from a single Doppler Weather Radar</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/1367</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0031018203002591">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Jian</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Zhao</foaf:surname>
+                           <foaf:givenName> Q</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Cheng</foaf:surname>
+                           <foaf:givenName> X</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Wang</foaf:surname>
+                           <foaf:givenName> J</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Wang…</foaf:surname>
+                           <foaf:givenName> P</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Pliocene–Pleistocene stable isotope and paleoceanographic changes in the northern South China Sea</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.sciencedirect.com/science/article/pii/S0031018203002591</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.researchgate.net/profile/M-Dileepkumar/publication/27668308_Oceanography_of_marginal_seas/links/55814b6608ae47061e5f578d/Oceanography-of-marginal-seas.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Kumar</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Oceanography of Marginal Seas</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.researchgate.net/profile/M-Dileepkumar/publication/27668308_Oceanography_of_marginal_seas/links/55814b6608ae47061e5f578d/Oceanography-of-marginal-seas.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0012821X02006374">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Ding</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Ranov</foaf:surname>
+                           <foaf:givenName> V</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Yang</foaf:surname>
+                           <foaf:givenName> SL</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Finaev</foaf:surname>
+                           <foaf:givenName> A</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Han…</foaf:surname>
+                           <foaf:givenName> JM</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>The loess record in southern Tajikistan and correlation with Chinese loess</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.sciencedirect.com/science/article/pii/S0012821X02006374</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.tandfonline.com/doi/pdf/10.1080/07266472.2003.10878696">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Bateman</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Sea lane security</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.tandfonline.com/doi/pdf/10.1080/07266472.2003.10878696</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://books.google.com/books?hl=en&lr=&id=5Vvv6rLcjs8C&oi=fnd&pg=PR7&dq=Monsoon+weather+OR+climate+OR+river+OR+cloud+OR+rain+OR+rainfall+OR+precipitation+OR+temperature+OR+wind+OR+premonsoon+%22Northeast+Indian%E2%80%9D&ots=HKShKo1X0Z&sig=50UVXqSOL3u0ruxHSMqVpQ35jgs">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Tejwani</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Agro forestry in India</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://books.google.com/books?hl=en&lr=&id=5Vvv6rLcjs8C&oi=fnd&pg=PR7&dq=Monsoon+weather+OR+climate+OR+river+OR+cloud+OR+rain+OR+rainfall+OR+precipitation+OR+temperature+OR+wind+OR+premonsoon+%22Northeast+Indian%E2%80%9D&ots=HKShKo1X0Z&sig=50UVXqSOL3u0ruxHSMqVpQ35jgs</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://link.springer.com/article/10.1360/03wd0155">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Wang</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Tian</foaf:surname>
+                           <foaf:givenName> J</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Cheng</foaf:surname>
+                           <foaf:givenName> X</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Liu</foaf:surname>
+                           <foaf:givenName> Q</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Xu</foaf:surname>
+                           <foaf:givenName> J</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Exploring cyclic changes of the ocean carbon reservoir</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://link.springer.com/article/10.1360/03wd0155</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://search.proquest.com/openview/5eb99236edbfb86a00435f5daea599d8/1?pq-origsite=gscholar&cbl=18750&diss=y">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Shi</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Water, heat and salt budget in the Indian Ocean</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://search.proquest.com/openview/5eb99236edbfb86a00435f5daea599d8/1?pq-origsite=gscholar&cbl=18750&diss=y</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.un-spider.org/sites/default/files/6-Cold%20Wave_Impacts_India_Indian%20Council%20of%20Agricultural%20Research.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Samra</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Singh</foaf:surname>
+                           <foaf:givenName> G</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Ramakrishna</foaf:surname>
+                           <foaf:givenName> YS</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Cold wave of 2002-03</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.un-spider.org/sites/default/files/6-Cold%20Wave_Impacts_India_Indian%20Council%20of%20Agricultural%20Research.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://nopr.niscpr.res.in/handle/123456789/1553">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Kumar</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Ramesh</foaf:surname>
+                           <foaf:givenName> R</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Productivity measurements in the Bay of Bengal using the ¹⁵N tracer: Implications to the global carbon cycle</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://nopr.niscpr.res.in/handle/123456789/1553</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.cepf.net/sites/default/files/final.ehimalayas.ep_.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Profile</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Eastern Himalayas Region</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.cepf.net/sites/default/files/final.ehimalayas.ep_.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.jstor.org/stable/23616525">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Arunachalam</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Upadhyaya</foaf:surname>
+                           <foaf:givenName> K</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Arunachalam…</foaf:surname>
+                           <foaf:givenName> K</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Litter decomposition and nutrient mineralization dynamics in two bamboo species growing in a 9-year-old" Jhum" fallow</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.jstor.org/stable/23616525</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://aquadocs.org/handle/1834/680">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Parsons</foaf:surname>
+                           <foaf:givenName>M</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Jenner</foaf:surname>
+                           <foaf:givenName> KCS</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Baldwin</foaf:surname>
+                           <foaf:givenName> R</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Rudolph…</foaf:surname>
+                           <foaf:givenName> P</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Cetaceans in the Indian Ocean Sanctuary: A Review</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://aquadocs.org/handle/1834/680</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://search.proquest.com/openview/e342b310b320599e05f2613ddd609445/1?pq-origsite=gscholar&cbl=18750&diss=y">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Zabielski</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Characteristics and influences of modern Arabian Sea intermediate water, and changes during the last glacial maximum</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://search.proquest.com/openview/e342b310b320599e05f2613ddd609445/1?pq-origsite=gscholar&cbl=18750&diss=y</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://books.google.com/books?hl=en&lr=&id=WfSmsuO6QugC&oi=fnd&pg=PR7&dq=Monsoon+weather+OR+climate+OR+river+OR+cloud+OR+rain+OR+rainfall+OR+precipitation+OR+temperature+OR+wind+OR+premonsoon+%22Northeast+Indian%E2%80%9D&ots=F4WfWTnxrL&sig=fQ6LuHLnaEY49Tlq-CNkwZL_Kv4">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Saikia</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Fragmented memories: struggling to be Tai-Ahom in India</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://books.google.com/books?hl=en&lr=&id=WfSmsuO6QugC&oi=fnd&pg=PR7&dq=Monsoon+weather+OR+climate+OR+river+OR+cloud+OR+rain+OR+rainfall+OR+precipitation+OR+temperature+OR+wind+OR+premonsoon+%22Northeast+Indian%E2%80%9D&ots=F4WfWTnxrL&sig=fQ6LuHLnaEY49Tlq-CNkwZL_Kv4</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.jstor.org/stable/24110626">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Bhaumik</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Gupta</foaf:surname>
+                           <foaf:givenName> AK</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Deep-sea benthic foraminifera from gas hydrate-rich zone, Blake Ridge, Northwest Atlantic (ODP Hole 997A)</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.jstor.org/stable/24110626</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.jstor.org/stable/24109947">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Padmakumari</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Ahmad</foaf:surname>
+                           <foaf:givenName> SM</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Ash layer at∼ 8 Ma in ODP Site 758 from the Bay of Bengal: evidence from Sr, Nd isotopic compositions and rare earth elements</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.jstor.org/stable/24109947</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://search.proquest.com/openview/c3705cebfc9555cced111c5a8107e747/1?pq-origsite=gscholar&cbl=18750&diss=y">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Nathan</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Paleoceanography of the South China Sea and the western equatorial Pacific: Testing linkages between Indonesian Seaway closure and sea level change …</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://search.proquest.com/openview/c3705cebfc9555cced111c5a8107e747/1?pq-origsite=gscholar&cbl=18750&diss=y</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.vliz.be/imisdocs/publications/246400.pdf.">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Jenner</foaf:surname>
+                           <foaf:givenName>M</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Keith</foaf:surname>
+                           <foaf:givenName> SG</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>McCabe</foaf:surname>
+                           <foaf:givenName> KA</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Parsons…</foaf:surname>
+                           <foaf:givenName> ECM</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Cetaceans in the Indian Ocean Sanctuary: A Review</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.vliz.be/imisdocs/publications/246400.pdf.</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://core.ac.uk/download/pdf/36698195.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Spollen</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Meteorological and model traits knowledge bases for North Indian Ocean tropical cyclones</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://core.ac.uk/download/pdf/36698195.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://pdfs.semanticscholar.org/b3d6/ada99bfd8d9f9a88c2a18ca0c71bf0fddb5b.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Ravelo</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Wara</foaf:surname>
+                           <foaf:givenName> MW</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>The role of the tropical oceans on global climate during a warm period and a major climate transition</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://pdfs.semanticscholar.org/b3d6/ada99bfd8d9f9a88c2a18ca0c71bf0fddb5b.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://drs.nio.res.in/drs/handle/2264/431">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Banakar</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Delta ¹³C depleted oceans before the termination 2: More nutrient-rich deep-water formation or light-carbon transfer?</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://drs.nio.res.in/drs/handle/2264/431</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://link.springer.com/article/10.1007/BF02732750">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Borges</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Do we have enough pieces of the jigsaw to integrate CO2 fluxes in the coastal ocean?</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://link.springer.com/article/10.1007/BF02732750</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://books.google.com/books?hl=en&lr=&id=8hoUu7BCw2YC&oi=fnd&pg=PA11&dq=Monsoon+weather+OR+climate+OR+river+OR+cloud+OR+rain+OR+rainfall+OR+precipitation+OR+temperature+OR+wind+OR+premonsoon+%22Northeast+Indian%E2%80%9D&ots=GEBnWB_mZf&sig=vByyXh3BLCT4sm8q5GkGqI1bHCI">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Gaan</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Das</foaf:surname>
+                           <foaf:givenName> S</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Recrudescence of Violence in Indian North-east States: Roots in Environmental Scarcity, Induced Migration from Bangladesh</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://books.google.com/books?hl=en&lr=&id=8hoUu7BCw2YC&oi=fnd&pg=PA11&dq=Monsoon+weather+OR+climate+OR+river+OR+cloud+OR+rain+OR+rainfall+OR+precipitation+OR+temperature+OR+wind+OR+premonsoon+%22Northeast+Indian%E2%80%9D&ots=GEBnWB_mZf&sig=vByyXh3BLCT4sm8q5GkGqI1bHCI</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.jstor.org/stable/4414040">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Kulkarni</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Bokil</foaf:surname>
+                           <foaf:givenName> M</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>The sinking lifts: Government irrigation schemes in North Karnataka</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.jstor.org/stable/4414040</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.researchgate.net/profile/Utkarsh-Ghate/publication/267719209_BIODIVERSITY_People%27s_Ecological_Planning_PEP_Network_and_Agricultural_Revitalization_in_South_India/links/5a66f65aaca2720ba6b030ff/BIODIVERSITY-Peoples-Ecological-Planning-PEP-Network-and-Agricultural-Revitalization-in-South-India.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Ghate</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>People's Ecological Planning (PEP) Network and Agricultural Revitalization in South India</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.researchgate.net/profile/Utkarsh-Ghate/publication/267719209_BIODIVERSITY_People%27s_Ecological_Planning_PEP_Network_and_Agricultural_Revitalization_in_South_India/links/5a66f65aaca2720ba6b030ff/BIODIVERSITY-Peoples-Ecological-Planning-PEP-Network-and-Agricultural-Revitalization-in-South-India.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://search.proquest.com/openview/f4e7e33b97a6a53c2b54419172f6a67b/1?pq-origsite=gscholar&cbl=18750&diss=y">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Peseye</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Developing an indigenous hymnody for the Naga Baptist churches of northeast India with special reference to the Angami Church</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://search.proquest.com/openview/f4e7e33b97a6a53c2b54419172f6a67b/1?pq-origsite=gscholar&cbl=18750&diss=y</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://search.proquest.com/openview/2a10af69c912d102fb47f10c87729426/1?pq-origsite=gscholar&cbl=18750&diss=y">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Stuligross</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>A piece of land to call one's own: Multicultural federalism and institutional innovation in India</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://search.proquest.com/openview/2a10af69c912d102fb47f10c87729426/1?pq-origsite=gscholar&cbl=18750&diss=y</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="http://www-odp.tamu.edu/publications/175_SR/VOLUME/CHAPTERS/SR175_19.PDF">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Pérez</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Charles</foaf:surname>
+                           <foaf:givenName> CD</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Berger</foaf:surname>
+                           <foaf:givenName> WH</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>19. LATE QUATERNARY PRODUCTIVITY FLUCTUATIONS OFF ANGOLA: EVIDENCE FROM BENTHIC FORAMINIFERS, SITE 10791</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>http://www-odp.tamu.edu/publications/175_SR/VOLUME/CHAPTERS/SR175_19.PDF</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0012821X02009238">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Tian</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Wang</foaf:surname>
+                           <foaf:givenName> P</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Cheng</foaf:surname>
+                           <foaf:givenName> X</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Li</foaf:surname>
+                           <foaf:givenName> Q</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Astronomically tuned Plio–Pleistocene benthic δ18O record from South China Sea and Atlantic–Pacific comparison</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.sciencedirect.com/science/article/pii/S0012821X02009238</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/428805">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Zhu</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Kidd</foaf:surname>
+                           <foaf:givenName> WSF</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Rowley</foaf:surname>
+                           <foaf:givenName> DB</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Currie…</foaf:surname>
+                           <foaf:givenName> BS</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Age of initiation of the India-Asia collision in the east-central Himalaya</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.journals.uchicago.edu/doi/abs/10.1086/428805</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://rupkatha.com/category/performance-studies/">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Asia</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Tagore</foaf:surname>
+                           <foaf:givenName> R</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Policy</foaf:surname>
+                           <foaf:givenName> S</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>What is Performance Studies?</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://rupkatha.com/category/performance-studies/</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://ageconsearch.umn.edu/record/294773/files/asea-2005-029.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Nathan</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Jodha</foaf:surname>
+                           <foaf:givenName> NS</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Thapa</foaf:surname>
+                           <foaf:givenName> G</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Globalisation and Food Security among Indigenous People in Asia</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://ageconsearch.umn.edu/record/294773/files/asea-2005-029.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://search.proquest.com/openview/4485cc87d037e7bfd680da02c6a85d9c/1?pq-origsite=gscholar&cbl=18750&diss=y">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Perez</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Quaternary productivity records from the eastern equatorial Atlantic and the Benguela Upwelling System</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://search.proquest.com/openview/4485cc87d037e7bfd680da02c6a85d9c/1?pq-origsite=gscholar&cbl=18750&diss=y</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://books.google.com/books?hl=en&lr=&id=62KQpPX1oVkC&oi=fnd&pg=PR9&dq=Monsoon+weather+OR+climate+OR+river+OR+cloud+OR+rain+OR+rainfall+OR+precipitation+OR+temperature+OR+wind+OR+premonsoon+%22Northeast+Indian%E2%80%9D&ots=A-NCRJUH0Y&sig=yYFEA5bzRKRyDSpT1YcSjX2i_Y4">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Maguire</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Essential Buddhism: A complete guide to beliefs and practices</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://books.google.com/books?hl=en&lr=&id=62KQpPX1oVkC&oi=fnd&pg=PR9&dq=Monsoon+weather+OR+climate+OR+river+OR+cloud+OR+rain+OR+rainfall+OR+precipitation+OR+temperature+OR+wind+OR+premonsoon+%22Northeast+Indian%E2%80%9D&ots=A-NCRJUH0Y&sig=yYFEA5bzRKRyDSpT1YcSjX2i_Y4</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://search.proquest.com/openview/10817c7e1e6965ae04c1b12e51ddcf6d/1?pq-origsite=gscholar&cbl=18750&diss=y">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Curtis</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Oceanic deep-water circulation and climate during the Late Neogene</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://search.proquest.com/openview/10817c7e1e6965ae04c1b12e51ddcf6d/1?pq-origsite=gscholar&cbl=18750&diss=y</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="http://www.geosocindia.com/index.php/jgsi/article/view/83285">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Pujari</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Shrivastava</foaf:surname>
+                           <foaf:givenName> JP</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Biogeochemical studies on some copper rich areas from Malanjkhand Granitoid, Madhya Pradesh</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>http://www.geosocindia.com/index.php/jgsi/article/view/83285</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000gb001307">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Frankignoulle</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Borges</foaf:surname>
+                           <foaf:givenName> AV</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>European continental shelf as a significant sink for atmospheric carbon dioxide</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000gb001307</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://search.proquest.com/openview/ddb510f75f130039f5a8e8890dc64d0a/1?pq-origsite=gscholar&cbl=18750&diss=y">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Vallianatos</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Food, gender and power: Poor and pregnant in New Delhi, India</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://search.proquest.com/openview/ddb510f75f130039f5a8e8890dc64d0a/1?pq-origsite=gscholar&cbl=18750&diss=y</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://books.google.com/books?hl=en&lr=&id=ckZGFUSgsHMC&oi=fnd&pg=PA269&dq=Monsoon+weather+OR+climate+OR+river+OR+cloud+OR+rain+OR+rainfall+OR+precipitation+OR+temperature+OR+wind+OR+premonsoon+%22Northeast+Indian%E2%80%9D&ots=uSjfPad-67&sig=8bn7HISHdaclmdTW5mK5sExo3o4">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>MCCALLISTER</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>HUGH W. DUCKLOW S. LEIGH MCCALLISTER</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://books.google.com/books?hl=en&lr=&id=ckZGFUSgsHMC&oi=fnd&pg=PA269&dq=Monsoon+weather+OR+climate+OR+river+OR+cloud+OR+rain+OR+rainfall+OR+precipitation+OR+temperature+OR+wind+OR+premonsoon+%22Northeast+Indian%E2%80%9D&ots=uSjfPad-67&sig=8bn7HISHdaclmdTW5mK5sExo3o4</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.researchgate.net/profile/Hugh-Ducklow/publication/258297667_Chapter_9_The_biogeochemistry_of_carbon_dioxide_in_the_coastal_oceans/links/53da3d740cf2a19eee882f23/Chapter-9-The-biogeochemistry-of-carbon-dioxide-in-the-coastal-oceans.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Ducklow</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>McCallister</foaf:surname>
+                           <foaf:givenName> SL</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>The biogeochemistry of carbon dioxide in the coastal oceans</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.researchgate.net/profile/Hugh-Ducklow/publication/258297667_Chapter_9_The_biogeochemistry_of_carbon_dioxide_in_the_coastal_oceans/links/53da3d740cf2a19eee882f23/Chapter-9-The-biogeochemistry-of-carbon-dioxide-in-the-coastal-oceans.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0031018201004965">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Venz</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Hodell</foaf:surname>
+                           <foaf:givenName> DA</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>New evidence for changes in Plio–Pleistocene deep water circulation from Southern Ocean ODP Leg 177 Site 1090</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.sciencedirect.com/science/article/pii/S0031018201004965</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://search.proquest.com/openview/f5952c881a3357198a4776e29fc3c456/1?pq-origsite=gscholar&cbl=18750&diss=y">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Casale</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>The Ottoman Age of Exploration: Spices, maps and conquest in the sixteenth-century Indian Ocean</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://search.proquest.com/openview/f5952c881a3357198a4776e29fc3c456/1?pq-origsite=gscholar&cbl=18750&diss=y</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://search.proquest.com/openview/9ecd404cfb55f8d3109a4c6ad3b1efa8/1?pq-origsite=gscholar&cbl=18750&diss=y">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Paulson</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>An integrated curriculum for an Iroquois and Eastern Woodland Indians Field Studies Program that conforms to the middle school philosophy and the New …</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://search.proquest.com/openview/9ecd404cfb55f8d3109a4c6ad3b1efa8/1?pq-origsite=gscholar&cbl=18750&diss=y</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1756-1051.2004.tb00825.x">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Wilmot‐Dear</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Friis</foaf:surname>
+                           <foaf:givenName> I</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>The old world species of Pouzolzia (Urticaceae, tribus Boehmerieae). A taxonomic revision</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1756-1051.2004.tb00825.x</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://dspace.mit.edu/handle/1721.1/97624">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Nandy</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Illegal immigration from Bangladesh to India: The emerging conflicts</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://dspace.mit.edu/handle/1721.1/97624</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=02180812&asa=N&AN=14405339&h=dUISnSo8yEvIURzVXD62wZ%2Ff8FWdg4PS%2FmoodjujhM4nQvbkTk6cHxn8JS8DCwczWTf6Ni016Z1xGNIAebRDlA%3D%3D&crl=c">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>Chunakara</foaf:surname>
+                           <foaf:givenName></foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>Emerging Geopolitical Trends in Asia.</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=02180812&asa=N&AN=14405339&h=dUISnSo8yEvIURzVXD62wZ%2Ff8FWdg4PS%2FmoodjujhM4nQvbkTk6cHxn8JS8DCwczWTf6Ni016Z1xGNIAebRDlA%3D%3D&crl=c</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="http://www.dsjyj.com.cn/dzdqs-data/qs/2002/3/PDF/20020305.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>蒲健辰</foaf:surname>
+                           <foaf:givenName>勤， 姚檀栋，</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>喜马拉雅山中部过去约 300 年季风降水变化</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>http://www.dsjyj.com.cn/dzdqs-data/qs/2002/3/PDF/20020305.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="https://www.jstage.jst.go.jp/article/swsj1965/55/3/55_175/_article/-char/ja/">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>平木敬三</foaf:surname>
+                           <foaf:givenName>裕史， 中口譲， 木村宗人，</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>東部インド洋における溶存セレンの分布</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>https://www.jstage.jst.go.jp/article/swsj1965/55/3/55_175/_article/-char/ja/</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="http://www.earth-science.net/article/id/1342">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>刘荣梅</foaf:surname>
+                           <foaf:givenName>芳， 方念乔， 吴琳， 王建乔，</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>孟加拉湾东经 90 海岭中上新世以来沉积记录及亚洲季风</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>http://www.earth-science.net/article/id/1342</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="http://www.dsjyj.com.cn/dzdqs-data/qs/2001/6/PDF/20010602.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>刘勇勤</foaf:surname>
+                           <foaf:givenName>乔， 陈学方， 胡超涌， 丁旋， 张振芳，</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>东北印度洋深海记录基本特征及其对青藏高原隆升的响应</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>http://www.dsjyj.com.cn/dzdqs-data/qs/2001/6/PDF/20010602.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="http://www.bcdt.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1290">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>陈晔</foaf:surname>
+                           <foaf:givenName>旺， 刘泽纯，</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>柴达木盆地自然伽玛曲线记录的古气候变化对太阳辐射响应关系的对比研究</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>http://www.bcdt.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1290</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+        <bib:Article rdf:about="http://www.earth-science.net/fileDQKX/journal/article/dqkxzx/2005/1/1450.pdf">
+            <z:itemType>journalArticle</z:itemType>
+            <dcterms:isPartOf rdf:resource=""/>
+            <bib:authors>
+            <rdf:Seq>
+                    <rdf:li>
+                       <foaf:Person>
+                           <foaf:surname>李前裕</foaf:surname>
+                           <foaf:givenName>， 汪品先， 成鑫荣，</foaf:givenName>
+                       </foaf:Person>
+                    </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+            <dc:title>南海 ODP1143 站上新世至更新世天文年代标尺的建立</dc:title>
+            <dcterms:abstract></dcterms:abstract>
+            <dc:date></dc:date>
+            <z:language>en</z:language>
+            <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+            <dc:identifier>
+                <dcterms:URI>
+                    <rdf:value>http://www.earth-science.net/fileDQKX/journal/article/dqkxzx/2005/1/1450.pdf</rdf:value>
+                </dcterms:URI>
+            </dc:identifier>
+            <dcterms:dateSubmitted>2024-08-27 16:32:50</dcterms:dateSubmitted>
+            <bib:pages></bib:pages>
+        </bib:Article>
+</rdf:RDF>

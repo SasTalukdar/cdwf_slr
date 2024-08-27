@@ -36,12 +36,12 @@ def find_doi(x):
             doi=doi[:-1]
     return doi
         
-
 def read_variables(file_path):
     variables = {}
     with open(file_path, 'r') as file:
         for line in file:
             key, value = line.strip().split('=', 1)
+            key=key.strip(' ')
             value=value.strip(' ')
             if value.isdigit():
                 value = int(value)
@@ -72,11 +72,8 @@ for i, row in df.iterrows():
         authors=format_author(row.Author)
         journal=row.Venue
         doi=find_doi(row.Source)
-    if doi!='':
-        sec=f'TY  - JOUR\nTI  - {title}{authors}\nDO  - {doi}\nDP  - DOI.org (Crossref)\nLA  - en\nUR  - {url}\nER  -\n\n'
+    sec=f'TY  - JOUR\nTI  - {title}{authors}\nDO  - {doi}\nDP  - DOI.org (Crossref)\nLA  - en\nUR  - {url}\nER  -\n\n'
     ris=ris+sec
-    if i==20:
-        break
 
 with open(f'{TAG}_{START_YEAR}_{END_YEAR}_{START_PAGE_NUM}_{MAX_NUM}.ris', "w") as file:
     file.write(ris)
