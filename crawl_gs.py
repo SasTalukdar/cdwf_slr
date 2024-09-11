@@ -163,7 +163,7 @@ def save_website_content(url):
 
 # Example usage
 empt=0
-for n in range(int(START_PAGE_NUM/10),MAX_NUM,10):
+for n in range(int(START_PAGE_NUM)*10,MAX_NUM,10):
     url = contruct_url(KEY_WORDS,START_YEAR,END_YEAR,n)
     data=save_website_content(url)
     if n==0:
