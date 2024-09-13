@@ -141,7 +141,6 @@ def save_website_content(driver, url):
                 venue.append("Venue not found")
 
             rank.append(rank[-1] + 1)
-        # Create a dataset and sort by the number of citations
         data = pd.DataFrame(list(zip(author, title, citations, year, publisher, venue, links)), index=rank[1:],
                             columns=['Author', 'Title', 'Citations', 'Year', 'Publisher', 'Venue', 'Source'])
         data.index.name = 'Rank'
@@ -158,13 +157,14 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # Example usage
 empt = 0
-for n in range(int(START_PAGE_NUM / 10), MAX_NUM, 10):
+for n in range(int(START_PAGE_NUM) * 10, MAX_NUM, 10):
     url = construct_url(KEY_WORDS, START_YEAR, END_YEAR, n)
     data = save_website_content(driver, url)
     if n == 0:
         df = data
     else:
-        df = pd.concat((df, data), ignore_index=True)
+        if isinstance(data, pd.DataFrame):    
+            df = pd.concat((df, data), ignore_index=True)
     df.to_csv(f'{TAG}_{START_YEAR}_{END_YEAR}_{START_PAGE_NUM}_{MAX_NUM}.csv', index=False)
     if len(data) == 0:
         empt += 1
