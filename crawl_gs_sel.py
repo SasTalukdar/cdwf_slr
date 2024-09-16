@@ -18,6 +18,7 @@ import time
 import pandas as pd
 import warnings
 from random import random
+import json
 
 def read_variables(file_path):
     variables = {}
@@ -33,17 +34,23 @@ def read_variables(file_path):
             variables[key] = value
     return variables
 
-# Example usage
-file_path = 'input.txt'  # Replace with your actual file path
-variables = read_variables(file_path)
+def save_to_json(input_file, output_file):
+    # Read the content of the input file
+    with open(input_file, 'r') as file:
+        lines = file.readlines()
 
-# Assign variables
-TAG = variables.get('TAG')
-KEY_WORDS = variables.get('KEY_WORDS')
-START_YEAR = variables.get('START_YEAR')
-END_YEAR = variables.get('END_YEAR')
-START_PAGE_NUM = variables.get('START_PAGE_NUM')
-MAX_NUM = variables.get('MAX_NUM')
+    # Initialize an empty dictionary to store the data
+    data = {}
+
+    # Process each line and add it to the dictionary
+    for line in lines:
+        key, value = line.strip().split(' = ', 1)
+        data[key] = value
+
+    # Save the dictionary as a JSON file
+    with open(output_file, 'w') as json_file:
+        json.dump(data, json_file, indent=4)
+    return None
 
 def construct_url(kw, st_yr, ed_yr, n):
     kw = kw.replace(' ', '+')
@@ -147,6 +154,20 @@ def save_website_content(driver, url):
     except Exception as e:
         print(f"An error occurred: {e}")
     return data
+
+file_path = 'input.txt' 
+variables = read_variables(file_path)
+
+# Assign variables
+TAG = variables.get('TAG')
+KEY_WORDS = variables.get('KEY_WORDS')
+START_YEAR = variables.get('START_YEAR')
+END_YEAR = variables.get('END_YEAR')
+START_PAGE_NUM = variables.get('START_PAGE_NUM')
+MAX_NUM = variables.get('MAX_NUM')
+
+# save metadata
+save_to_json('input.txt', f'{TAG}_{START_YEAR}_{END_YEAR}_{START_PAGE_NUM}_{MAX_NUM}.json')
 
 # Setup ChromeDriver
 chrome_options = Options()
