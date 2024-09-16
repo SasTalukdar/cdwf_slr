@@ -94,7 +94,7 @@ def save_website_content(driver, url):
 
     try:
         driver.get(url)
-        WebDriverWait(driver, 600).until(EC.presence_of_element_located((By.CLASS_NAME, "gs_or")))
+        WebDriverWait(driver, 3600).until(EC.presence_of_element_located((By.CLASS_NAME, "gs_or")))
 
         # Create parser
         soup = BeautifulSoup(driver.page_source, 'html.parser')
