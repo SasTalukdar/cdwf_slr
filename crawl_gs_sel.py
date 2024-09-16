@@ -94,7 +94,7 @@ def save_website_content(driver, url):
 
     try:
         driver.get(url)
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "gs_or")))
+        WebDriverWait(driver, 600).until(EC.presence_of_element_located((By.CLASS_NAME, "gs_or")))
 
         # Create parser
         soup = BeautifulSoup(driver.page_source, 'html.parser')
@@ -172,5 +172,5 @@ for n in range(int(START_PAGE_NUM) * 10, MAX_NUM, 10):
     if empt == 1:
         print('Empty page found. All links grabbed (Most Likely!). Exiting!')
         break
-    time.sleep(5 + random() * 10)
+    time.sleep(2 + random() * 10)
 driver.quit()
