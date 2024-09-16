@@ -6,6 +6,7 @@ Created on Mon Aug 19 18:11:44 2024
 @author: sasankatalukdar
 """
 
+import os
 import pandas as pd
 
 def format_author(x):
@@ -50,30 +51,32 @@ def read_variables(file_path):
             variables[key] = value
     return variables
 
-# Example usage
-file_path = 'input.txt'  # Replace with your actual file path
-variables = read_variables(file_path)
+def list_csv_files(folder_path):
+    # List to store the names of csv files
+    csv_files = []
+    # Iterate over all the files in the specified folder
+    for file_name in os.listdir(folder_path):
+        # Check if the file starts with Tag and has a .csv extension
+        if file_name.startswith('Tag') and file_name.endswith('.csv'):
+            csv_files.append(file_name)
+    return csv_files
 
-# Assign variables
-TAG=variables.get('TAG')
-KEY_WORDS = variables.get('KEY_WORDS')
-START_YEAR = variables.get('START_YEAR')
-END_YEAR = variables.get('END_YEAR')
-START_PAGE_NUM = variables.get('START_PAGE_NUM')
-MAX_NUM = variables.get('MAX_NUM')
+files=list_csv_files('.')
 
-df=pd.read_csv(f'{TAG}_{START_YEAR}_{END_YEAR}_{START_PAGE_NUM}_{MAX_NUM}.csv')
-
-ris=''
-for i, row in df.iterrows():
-    if row.Source[:4]=='http':
-        url=row.Source
-        title=row.Title
-        authors=format_author(row.Author)
-        journal=row.Venue
-        doi=find_doi(row.Source)
-    sec=f'TY  - JOUR\nTI  - {title}{authors}\nDO  - {doi}\nDP  - DOI.org (Crossref)\nLA  - en\nUR  - {url}\nER  -\n\n'
-    ris=ris+sec
-
-with open(f'{TAG}_{START_YEAR}_{END_YEAR}_{START_PAGE_NUM}_{MAX_NUM}.ris', "w") as file:
-    file.write(ris)
+for file in files:
+    print(f'Converting {file}')
+    df=pd.read_csv(file)
+    
+    ris=''
+    for i, row in df.iterrows():
+        if row.Source[:4]=='http':
+            url=row.Source
+            title=row.Title
+            authors=format_author(row.Author)
+            journal=row.Venue
+            doi=find_doi(row.Source)
+        sec=f'TY  - JOUR\nTI  - {title}{authors}\nDO  - {doi}\nDP  - DOI.org (Crossref)\nLA  - en\nUR  - {url}\nER  -\n\n'
+        ris=ris+sec
+    
+    with open(f'{file[:-4]}.ris', "w") as file:
+        file.write(ris)

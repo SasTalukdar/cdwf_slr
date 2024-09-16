@@ -163,9 +163,9 @@ for n in range(int(START_PAGE_NUM) * 10, MAX_NUM, 10):
     if n == 0:
         df = data
     else:
-        if isinstance(data, pd.DataFrame):    
+        if isinstance(df, pd.DataFrame):    
             df = pd.concat((df, data), ignore_index=True)
-    df.to_csv(f'{TAG}_{START_YEAR}_{END_YEAR}_{START_PAGE_NUM}_{MAX_NUM}.csv', index=False)
+            df.to_csv(f'{TAG}_{START_YEAR}_{END_YEAR}_{START_PAGE_NUM}_{MAX_NUM}.csv', index=False)
     if len(data) == 0:
         empt += 1
     print(f'iteration: {n}')
