@@ -101,7 +101,7 @@ def save_website_content(driver, url):
 
     try:
         driver.get(url)
-        WebDriverWait(driver, 3600).until(EC.presence_of_element_located((By.CLASS_NAME, "gs_or")))
+        WebDriverWait(driver, 900).until(EC.presence_of_element_located((By.CLASS_NAME, "gs_or")))
 
         # Create parser
         soup = BeautifulSoup(driver.page_source, 'html.parser')
@@ -166,32 +166,39 @@ END_YEAR = variables.get('END_YEAR')
 START_PAGE_NUM = variables.get('START_PAGE_NUM')
 MAX_NUM = variables.get('MAX_NUM')
 
-# save metadata
-save_to_json('input.txt', f'{TAG}_{START_YEAR}_{END_YEAR}_{START_PAGE_NUM}_{MAX_NUM}.json')
 
-# Setup ChromeDriver
-chrome_options = Options()
-chrome_options.add_argument("--start-maximized")
-service = Service()  # Replace with the path to your ChromeDriver
-
-driver = webdriver.Chrome(service=service, options=chrome_options)
-
-# Example usage
-empt = 0
-for n in range(int(START_PAGE_NUM) * 10, MAX_NUM, 10):
-    url = construct_url(KEY_WORDS, START_YEAR, END_YEAR, n)
-    data = save_website_content(driver, url)
-    if n == 0:
-        df = data
-    else:
-        if isinstance(df, pd.DataFrame):    
-            df = pd.concat((df, data), ignore_index=True)
-            df.to_csv(f'{TAG}_{START_YEAR}_{END_YEAR}_{START_PAGE_NUM}_{MAX_NUM}.csv', index=False)
-    if len(data) == 0:
-        empt += 1
-    print(f'iteration: {n}')
-    if empt == 1:
-        print('Empty page found. All links grabbed (Most Likely!). Exiting!')
-        break
-    time.sleep(2 + random() * 10)
-driver.quit()
+for yr in range(START_YEAR, END_YEAR+1):
+    try:
+        print(f'Downloading year: {yr}')
+        # save metadata
+        save_to_json('input.txt', f'{TAG}_{yr}_{START_PAGE_NUM}_{MAX_NUM}.json')
+        
+        # Setup ChromeDriver
+        chrome_options = Options()
+        chrome_options.add_argument("--start-maximized")
+        service = Service()  # Replace with the path to your ChromeDriver
+        
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+        
+        # Example usage
+        empt = 0
+            
+        for n in range(int(START_PAGE_NUM) * 10, MAX_NUM, 10):
+            url = construct_url(KEY_WORDS, yr, yr, n)
+            data = save_website_content(driver, url)
+            if n == 0:
+                df = data
+            else:
+                if isinstance(df, pd.DataFrame):    
+                    df = pd.concat((df, data), ignore_index=True)
+                    df.to_csv(f'{TAG}_{yr}_{START_PAGE_NUM}_{MAX_NUM}.csv', index=False)
+            if len(data) == 0:
+                empt += 1
+            print(f'{n} articles downloaded, {empt}')
+            if empt == 1:
+                print('Empty page found. All links grabbed (Most Likely!). Exiting!')
+                break
+            time.sleep(2 + random() * 10)
+        driver.quit()
+    except KeyboardInterrupt:
+        print('Keyboard interuption occured, moving to the next year, if possible')
