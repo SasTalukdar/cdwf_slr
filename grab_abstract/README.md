@@ -63,7 +63,7 @@ You'll be prompted with the following options:
 - If the URL **is not** a research article → Press `r`
 - If the abstract **is correctly** printed → Press `Enter`
 - If the abstract is **wrong or missing** → Copy it manually and press `p`
-- If the abstract is **not on the page**, use Google Scholar → Copy abstract and press `g`
+- If the abstract is **not on the page**, copy and search the article title in Google Scholar → Copy abstract and press `g`
 - If CAPTCHA can't be solved (e.g., JSTOR):
   - Press `m` to open a manual browser window
   - Solve CAPTCHA → select abstract text → right-click → _Save selected text_
