@@ -13,6 +13,7 @@ import nltk
 from nltk.corpus import words
 import requests
 import tempfile
+import argparse
 import time
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -35,9 +36,19 @@ except ImportError:
 nltk.download('words', quiet=True)
 english_words = set(words.words())
 
-# Configuration
-MY_PATH = '/Users/sasankatalukdar/sas/cdwf_slr/RIS_ToFetchAbstract_04Apr2025_Sasanka/'
-FNAME = "Tag03_04.json"
+# ----------------------
+# Command-Line Argument Parsing
+# ----------------------
+parser = argparse.ArgumentParser(description="Fetch abstracts from publisher APIs.")
+parser.add_argument('FNAME', help="JSON filename containing article data")
+args = parser.parse_args()
+
+# Instead of a hard-coded path, use the current working directory.
+MY_PATH = os.getcwd() + os.sep
+
+# Use the provided command-line filename.
+FNAME = args.FNAME
+
 
 CONFIG_FILES = {
     "elsevier": f"{MY_PATH}elsevier_config.json",
@@ -47,6 +58,7 @@ CONFIG_FILES = {
 springer_configs = [
     f"{MY_PATH}springer_config1.json",
     f"{MY_PATH}springer_config2.json",
+    f"{MY_PATH}springer_config3.json",
     # Add more as needed
 ]
 PUBLISHER_DOMAINS = {
